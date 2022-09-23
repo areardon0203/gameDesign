@@ -1,0 +1,33 @@
+{
+	"name": "SLT",
+	"version": "1.0.0.0",
+	"description": "",
+	"id": "",
+	"unique-id": "jkdx8s94dxe",
+	"viewport-width": 1280,
+	"viewport-height": 720,
+	"author": "",
+	"email": "",
+	"website": "",
+	"orientations": "landscape",
+	"c2version": "244",
+	"c3version": "r308.2",
+	"ife": false,
+	"used-plugins": [
+		"TiledBg",
+		"Tilemap",
+		"Sprite",
+		"Keyboard",
+		"Text",
+		"Audio",
+		"gamepad",
+		"Touch"
+	],
+	"used-behaviors": [
+		"solid",
+		"Flash",
+		"Platform",
+		"scrollto",
+		"Sin"
+	]
+}
